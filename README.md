@@ -23,7 +23,7 @@ An App to search and save all your favourite books!
 
 ## Usage
 
-[DEMO APP](https://brandon-jate.herokuapp.com/)
+[DEMO APP](https://booksearch-brandon.herokuapp.com/)
 
 ![Screenshot](assets/images/screenshot.png)
 
